@@ -23,8 +23,8 @@ requires:
   Email::Abstract: 0
   Email::Valid: 0
   Email::Valid::Loose: 0
-  MooX::Types::MooseLike: 0
+  MooX::Types::MooseLike: 0.16
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/hayajo/p5-MooX-Types-MooseLike-Email.git
-version: 0.01
+version: 0.03
